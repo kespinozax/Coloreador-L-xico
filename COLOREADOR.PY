@@ -220,3 +220,4 @@ if __name__ == "__main__":
     app = LexicalColorer(root)
     root.mainloop()
 5
+
